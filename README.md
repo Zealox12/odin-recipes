@@ -1,1 +1,1 @@
-# odin-recipes
+A mockup of a recipe website, made using HTML, that contains recipes for Biryani, Chowmein and Lasagna, there is a home page called index and then three respective separate pages for the recipes.
